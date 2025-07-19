@@ -1,0 +1,10 @@
+data_root: data/ASVspoof2019/LA
+fe:
+  n_fft: 512
+  hop_length: 128
+  win_length: 512
+  power: 2.0
+batch_size: 32
+lr: 1e-4
+epochs: 5
+ckpt_path: best.ckpt
