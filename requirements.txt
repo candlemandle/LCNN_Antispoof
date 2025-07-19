@@ -1,0 +1,9 @@
+torch>=1.10
+torchaudio
+librosa
+pyyaml
+numpy
+scipy
+scikit-learn
+tensorboard
+wandb
